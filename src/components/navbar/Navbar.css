@@ -1,0 +1,20 @@
+
+.navbar {
+  background-color: #171b20;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .navbar a {
+    color: white;
+    padding: 24px 26px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 24px;
+  }
+  
+  .navbar a:hover {
+    background-color: #ace0f9;
+    color: black;
+  }
